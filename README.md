@@ -1,5 +1,5 @@
 # Segmentez_des_clients_dun_site_e-commerce
-Formation data scientist - Projet n° - Segmentez des clients d'un site e-commerce
+Formation data scientist - Projet n°5 - Segmentez des clients d'un site e-commerce
 
 Vous êtes consultant pour Olist, une entreprise brésilienne qui propose une solution de vente sur les marketplaces en ligne.
 
