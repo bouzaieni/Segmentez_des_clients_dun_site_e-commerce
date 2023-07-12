@@ -42,10 +42,17 @@ Juan, de l’équipe Marketing
 Vous réalisez donc trois autres documents afin de préparer une réponse à Olist : 
 
 un notebook avec des essais des différentes approches de modélisation ;
+
 un notebook de simulation pour déterminer la fréquence nécessaire de mise à jour du modèle de segmentation, afin que celui-ci reste pertinent ; 
+
 une présentation pour un collègue afin d’obtenir ses retours sur votre approche.
+
 Livrables
+
 Un notebook de l'analyse exploratoire (non cleané, pour comprendre votre démarche).
+
 Un notebook (ou code commenté au choix) d’essais des différentes approches de modélisation (non cleané, pour comprendre votre démarche).
+
 Un notebook de simulation pour déterminer la fréquence nécessaire de mise à jour du modèle de segmentation.
+
 Un support de présentation pour présenter votre travail à un collègue.
